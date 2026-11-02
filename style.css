@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    background-color: #0b1020;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: #7c9cff;
+    font-size: 36px;
+}
+
+p {
+    color: #cccccc;
+    font-size: 18px;
+}
+
+section {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #17213a;
+    border-radius: 12px;
+}
+
+iframe {
+    border: none;
+    border-radius: 8px;
+}
